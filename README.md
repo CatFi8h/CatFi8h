@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CatFi8h
+- 👋 Hi, I’m Igor
 - 👀 I’m interested in Java development and don't hesitate to smth else interesting. 
 - 🌱 I’m currently learning Solididy just for fun
 
